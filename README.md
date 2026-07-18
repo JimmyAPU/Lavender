@@ -1,2 +1,2 @@
 # Lavender
-Practice repo
+Director - Sushree Swayangjita
